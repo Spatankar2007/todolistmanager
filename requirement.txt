@@ -1,0 +1,2 @@
+# This file lists external Python dependencies.
+# JSON handling is built-in, so no packages are required for basic data persistence.
