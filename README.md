@@ -1,11 +1,11 @@
-# 📋 Python Command-Line To-Do List Manager
+# Python Command-Line To-Do List Manager
 
 ## Project Description
 A simple, functional To-Do List application built purely in **Python**. This command-line utility allows users to manage their daily tasks, offering a basic interface to add, view, and exit the program.
 
 ---
 
-## ✨ Features
+##  Features
 
 This application includes the following core functionalities:
 
@@ -16,7 +16,7 @@ This application includes the following core functionalities:
 
 ---
 
-## 🚀 How to Run the Application
+## How to Run the Application
 
 Follow these steps to get a local copy of the program running on your Windows desktop:
 
@@ -37,14 +37,14 @@ Follow these steps to get a local copy of the program running on your Windows de
 
 ---
 
-## 🛠️ Technology Used
+##  Technology Used
 
 * **Language:** Python 3
 * **Environment:** Visual Studio Code (VS Code)
 
 ---
 
-## 💡 Next Steps (Future Enhancements)
+##  Next Steps (Future Enhancements)
 
 * Add a feature to mark tasks as **completed**.
 * Implement a **save/load** feature using a file (like `tasks.json`) so tasks persist after the program is closed.
