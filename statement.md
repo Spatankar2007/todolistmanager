@@ -4,7 +4,7 @@
 
 The goal of this project is to develop a modern, user-friendly **To-Do List Manager application**. This tool will help individuals and small teams efficiently **organize, track, and manage their daily tasks** and long-term goals. It aims to reduce cognitive load and improve productivity by providing a centralized and intuitive system for task management.
 
-## 2. Scope of Project 🧭
+## 2. Scope of Project 
 
 The initial scope of this project focuses on delivering a **Minimum Viable Product (MVP)** with core task management capabilities.
 
@@ -20,7 +20,7 @@ The initial scope of this project focuses on delivering a **Minimum Viable Produ
     * Advanced features like recurring tasks, sub-tasks, or collaboration features.
     * Calendar view integration.
 
-## 3. Target Users 🎯
+## 3. Target Users
 
 The primary audience for the To-Do List Manager is defined by their need for simple, reliable task organization.
 
@@ -30,7 +30,7 @@ The primary audience for the To-Do List Manager is defined by their need for sim
 
 > **Key User Need:** Users require an **uncluttered**, **fast**, and **reliable** tool to capture tasks as they arise and easily see what needs to be done next.
 
-## 4. High-Level Features ✨
+## 4. High-Level Features 
 
 These are the essential, top-level functionalities the application will provide:
 
